@@ -1,0 +1,1 @@
+window.seraph_wd={};

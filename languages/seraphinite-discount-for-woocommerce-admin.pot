@@ -1,0 +1,806 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Seraphinite Solutions
+# This file is distributed under the same license as the seraphinite-discount-for-woocommerce package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  cmn.admin.pot (seraphinite-discount-for-woocommerce 2.4.5)  #-#-#-"
+"#-#\n"
+"Project-Id-Version: seraphinite-discount-for-woocommerce 2.4.5\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  main.admin.pot (seraphinite-discount-for-woocommerce 2.4.5)  #-#-"
+"#-#-#\n"
+"Project-Id-Version: seraphinite-discount-for-woocommerce 2.4.5\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Functionality is not implemented yet.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004001"
+msgstr ""
+
+# General error.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004005"
+msgstr ""
+
+# The operation attempted is not supported.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004021"
+msgstr ""
+
+# Access is denied. Ensure that there are proper access rights.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070005"
+msgstr ""
+
+# One or more arguments are invalid.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070057"
+msgstr ""
+
+# Not found.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070490"
+msgstr ""
+
+# Data is corrupted.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070570"
+msgstr ""
+
+# The timeout period expired.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_800705B4"
+msgstr ""
+
+# External program ended with error.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_800401F7"
+msgstr ""
+
+# Result code 0x%08X.
+#. translators: 1 - error code.
+#, php-format
+msgctxt "admin.ErrDescr_Common"
+msgid "Def_%08X"
+msgstr ""
+
+# The settings have been restored successfully to their defaults.
+msgctxt "admin.Common_Settings"
+msgid "ResetSuccInfo"
+msgstr ""
+
+# The settings have not been restored: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "ResetErrInfo_%1$s"
+msgstr ""
+
+# Documentation
+msgctxt "admin.Common"
+msgid "PluginDocLink"
+msgstr ""
+
+# Order Premium Version
+msgctxt "admin.Common_SwitchTo"
+msgid "OrderInLockedFeatureBtn"
+msgstr ""
+
+# Other Features
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtTitle"
+msgstr ""
+
+# Please, switch to the <strong>free extended plugin</strong> version with %1$sfree additional features and preview of premium ones%2$s.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtInfo_%1$s%2$s"
+msgstr ""
+
+# Download the free extended plugin version
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtLinkBtn"
+msgstr ""
+
+# Download
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtLinkSmallBtn"
+msgstr ""
+
+# Please, press the '<strong>%1$s</strong>' button to open the vendor's website, then <strong>download free version</strong> and <strong>replace the existed one</strong>.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "ContentNotInplaceInfo_%1$s"
+msgstr ""
+
+# By pressing "%1$s" button you are agreeing with the %2$sEnd-User License Agreement%3$s.
+#. translators: 1 - button name; 2,3 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "LicAcceptInfo_%1$s%2$s%3$s"
+msgstr ""
+
+# Rate It
+msgctxt "admin.Common_RateIt"
+msgid "Title"
+msgstr ""
+
+# Thank you!
+msgctxt "admin.Common_RateIt"
+msgid "RateSmallBtn"
+msgstr ""
+
+# If you like the plugin please could you give us a %1$s rating.%2$s%3$sThank you very much in advance. We do %4$sall of our best%5$s.
+#. translators: 1 - link; 2 - Info_P2; 3 - separator tags; 4,5 - link tags.
+#, php-format
+msgctxt "admin.Common_RateIt"
+msgid "Info_%1$s%2$s%3$s%4$s%5$s"
+msgstr ""
+
+# It really improves the plugin.
+msgctxt "admin.Common_RateIt"
+msgid "Info_P2"
+msgstr ""
+
+# %1$s: %2$s
+#, php-format
+msgctxt "admin.Common"
+msgid "PluginSubjectTitle_%1$s%2$s"
+msgstr ""
+
+# Bulk Discounts
+msgctxt "admin.Common"
+msgid "PluginTitle"
+msgstr ""
+
+# Bulk Discounts for WooCommerce
+msgctxt "admin.Common"
+msgid "PluginTitleLong"
+msgstr ""
+
+# Seraphinite Bulk Discounts for WooCommerce
+msgctxt "admin.Common"
+msgid "PluginTitleFull"
+msgstr ""
+
+# Increase your sales by providing products bulk discounts.
+msgctxt "admin.Common"
+msgid "PluginDescription"
+msgstr ""
+
+# Increase your sales and revenue by providing products bulk discounts for each one.
+msgctxt "admin.Common"
+msgid "PluginDescriptionFull"
+msgstr ""
+
+# %1$s: %2$s
+#, php-format
+msgctxt "admin.Common"
+msgid "PluginNameToDetails_%1$s%2$s"
+msgstr ""
+
+# Start
+msgctxt "admin.Common"
+msgid "Start"
+msgstr ""
+
+# Function '%1$s' is blocked
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FuncBlocked_%1$s"
+msgstr ""
+
+# Can't execute (%1$s) external program
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "ExecErr_%1$s"
+msgstr ""
+
+# External program (%1$s) returned the code %2$d and response (%3$s)
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "ExecErrCode_%1$s%2$d%3$s"
+msgstr ""
+
+# Can't create temporary file in '%1$s' directory
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "TmpFileCreateErr_%1$s"
+msgstr ""
+
+# Can't write in '%1$s' directory
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "DirWriteErr_%1$s"
+msgstr ""
+
+# Can't write '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileWriteErr_%1$s"
+msgstr ""
+
+# Can't read '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileReadErr_%1$s"
+msgstr ""
+
+# Can't modify '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileModifyErr_%1$s"
+msgstr ""
+
+# Can't rename '%1$s' file to '%2$s'
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileRenameErr_%1$s%2$s"
+msgstr ""
+
+# Can't delete '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileDeleteErr_%1$s"
+msgstr ""
+
+# Can't mark '%1$s' file as executable
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileMakeExecErr_%1$s"
+msgstr ""
+
+# Can't download '%1$s'
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "NetDownloadErr_%1$s"
+msgstr ""
+
+# Can't recognize '%1$s' MIME type
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "NetMimeErr_%1$s"
+msgstr ""
+
+# PHP's launcher file not found near extensions' '%1$s' directory.
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "PhpExecMdlNotFound_%1$s"
+msgstr ""
+
+# %1$s. Extensions' directory is '%2$s'.
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "PhpExtDirSuffix_%1$s%2$s"
+msgstr ""
+
+# About
+msgctxt "admin.Common_About"
+msgid "Title"
+msgstr ""
+
+# Seraphinite Bulk Discounts for WooCommerce (Base)
+msgctxt "admin.Common"
+msgid "PluginTitleFullWithSuffix"
+msgstr ""
+
+# %1$sVersion:%2$s %3$s
+#. translators: 1,2 - strong tags; 3 - version.
+#, php-format
+msgctxt "admin.Common_About"
+msgid "Version_%1$s%2$s%3$s"
+msgstr ""
+
+# Third-Party Software
+msgctxt "admin.Common_About"
+msgid "Link3rdPartySoft"
+msgstr ""
+
+# Get support...
+msgctxt "admin.Common_About"
+msgid "LinkSupport"
+msgstr ""
+
+# About Vendor
+msgctxt "admin.Common_AboutVendor"
+msgid "Title"
+msgstr ""
+
+# We develop solutions for WordPress and other platforms to streamline your business and life.
+msgctxt "admin.Common_AboutVendor"
+msgid "Info1"
+msgstr ""
+
+# Please, do not hesitate to %1$scontact us%2$s if you have any %3$squestion%4$s or want %5$sadditional features%6$s.
+#. translators: 1,2 - link tags; 3,4 - strong tags; 5,6 - strong tags.
+#, php-format
+msgctxt "admin.Common_AboutVendor"
+msgid "Info2_%1$s%2$s%3$s%4$s%5$s%6$s"
+msgstr ""
+
+# More plugins...
+msgctxt "admin.Common_AboutVendor"
+msgid "MorePluginsBtn"
+msgstr ""
+
+# More info...
+msgctxt "admin.Common_AboutVendor"
+msgid "MoreInfoBtn"
+msgstr ""
+
+# License
+msgctxt "admin.Common_Lic"
+msgid "SettingsTitle"
+msgstr ""
+
+# Enable activation of %1$spremium features%2$s or switch to the <strong>free extended plugin</strong> version with additional features.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtLicenseInfo_%1$s%2$s"
+msgstr ""
+
+# Featured Plugins
+msgctxt "admin.Common_AdvertProducts"
+msgid "Title"
+msgstr ""
+
+# This promotion %1$sisn't shown%2$s in the %3$spremium version%4$s.
+#. translators: 1,2 - strong tags; 3,4 - strong tags.
+#, php-format
+msgctxt "admin.Common_AdvertProducts"
+msgid "LockedFeatureInsideInfo_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# More info...
+msgctxt "admin.Common_AdvertProducts"
+msgid "ItemMoreInfoBtn"
+msgstr ""
+
+# All plugins can be discovered at the %1$smain site%2$s.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_AdvertProducts"
+msgid "TotalInfo_%1$s%2$s"
+msgstr ""
+
+# All current settings will be lost. Are you sure you want to restore the default settings?
+msgctxt "admin.Common_Settings"
+msgid "RestoreConfirm"
+msgstr ""
+
+# Previous
+msgctxt "admin.Common_Settings"
+msgid "WizPrevBtn"
+msgstr ""
+
+# Next
+msgctxt "admin.Common_Settings"
+msgid "WizNextBtn"
+msgstr ""
+
+# Finish
+msgctxt "admin.Common_Settings"
+msgid "WizFinishBtn"
+msgstr ""
+
+# Begin setup wizard
+msgctxt "admin.Common_Settings"
+msgid "WizStartBtn"
+msgstr ""
+
+# Setup wizard
+msgctxt "admin.Common_Settings"
+msgid "TitleWiz"
+msgstr ""
+
+# The settings have been saved successfully.
+msgctxt "admin.Common_Settings"
+msgid "SaveSuccInfo"
+msgstr ""
+
+# The settings have been partially saved: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "SaveWarnInfo_%1$s"
+msgstr ""
+
+# The settings have not been saved: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "SaveErrInfo_%1$s"
+msgstr ""
+
+# The plugin's behavior has been changed since previous used version. Please, see the details in the %1$sproduct's changelog%2$s and correct the settings if necessary.
+#, php-format
+msgctxt "admin.Common_ChangeVersion"
+msgid "Info_%1$s%2$s"
+msgstr ""
+
+# Confirm
+msgctxt "admin.Common_ChangeVersion"
+msgid "ConfirmBtn"
+msgstr ""
+
+# It looks like you've been using the plugin for a while now, thanks!
+msgctxt "admin.Common_RateIt"
+msgid "InfoPrefix"
+msgstr ""
+
+# Say thank you!
+msgctxt "admin.Common_RateIt"
+msgid "RateBtn"
+msgstr ""
+
+# Postpone
+msgctxt "admin.Common_RateIt"
+msgid "PostponeBtn"
+msgstr ""
+
+# Accept the End-User License Agreement
+msgctxt "admin.Common_Eula"
+msgid "AcceptBtn"
+msgstr ""
+
+# Please, accept the new %1$sEnd-User License Agreement%2$s. By pressing "%3$s" button you are agreeing with it.
+#. translators: 1,2 - link tags; 3 - button name.
+#, php-format
+msgctxt "admin.Common_Eula"
+msgid "AcceptInfo_%1$s%2$s%3$s"
+msgstr ""
+
+# Plugin is not compatible with current PHP version %1$s according to it %3$srequirements%4$s. Please <strong>update your PHP version to %2$s or higher</strong>.
+#. translators: 1 - PHP ver, 2 - PHP requred ver, 3,4 - link tags.
+#, php-format
+msgctxt "admin.Common"
+msgid "PhpMinVerErr_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Plugin is not compatible with current WordPress version %1$s according to it %3$srequirements%4$s. Please <strong>update your WordPress to %2$s or higher</strong>.
+#. translators: 1 - PHP ver, 2 - PHP requred ver, 3,4 - link tags.
+#, php-format
+msgctxt "admin.Common"
+msgid "WpMinVerErr_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Add
+msgctxt "admin.Common_ItemsList"
+msgid "AddItemBtn"
+msgstr ""
+
+# Delete all
+msgctxt "admin.Common_ItemsList"
+msgid "DelAllItemsBtn"
+msgstr ""
+
+# No items
+msgctxt "admin.Common_ItemsList"
+msgid "NoItemsInfo"
+msgstr ""
+
+# Value
+msgctxt "admin.Settings_Profiles"
+msgid "AttrTypeValLbl"
+msgstr ""
+
+# Custom field
+msgctxt "admin.Settings_Profiles"
+msgid "AttrTypeMetaLbl"
+msgstr ""
+
+# Enable
+msgctxt "admin.ProductSettings"
+msgid "EnabledLbl"
+msgstr ""
+
+# Condition
+msgctxt "admin.ProductSettings"
+msgid "ConditionLbl"
+msgstr ""
+
+# Quantity
+msgctxt "admin.ProductSettings"
+msgid "QuantityLbl"
+msgstr ""
+
+# minimum
+msgctxt "admin.ProductSettings"
+msgid "MinPhlr"
+msgstr ""
+
+# unlimited
+msgctxt "admin.ProductSettings"
+msgid "UnlimPhlr"
+msgstr ""
+
+# Discount
+msgctxt "admin.ProductSettings"
+msgid "DiscountLbl"
+msgstr ""
+
+# No
+# No
+msgctxt "admin.Settings_Profiles"
+msgid "ExclTrivCmbItem"
+msgid_plural "ExclTrivCmbItem"
+msgstr[0] ""
+msgstr[1] ""
+
+# Yes
+# Yes
+msgctxt "admin.Settings_Profiles"
+msgid "InclTrivCmbItem"
+msgid_plural "InclTrivCmbItem"
+msgstr[0] ""
+msgstr[1] ""
+
+# Not in
+# Not in
+msgctxt "admin.Settings_Profiles"
+msgid "ExclCmbItem"
+msgid_plural "ExclCmbItem"
+msgstr[0] ""
+msgstr[1] ""
+
+# In
+# In
+msgctxt "admin.Settings_Profiles"
+msgid "InCmbItem"
+msgid_plural "InCmbItem"
+msgstr[0] ""
+msgstr[1] ""
+
+# Categories
+msgctxt "admin.Settings_Profiles"
+msgid "CtgsLbl"
+msgstr ""
+
+# Tags
+msgctxt "admin.Settings_Profiles"
+msgid "TagsLbl"
+msgstr ""
+
+# Tags separated by comma
+msgctxt "admin.Settings_Profiles"
+msgid "TagsPhlr"
+msgstr ""
+
+# Products
+msgctxt "admin.Settings_Profiles"
+msgid "ProdsLbl"
+msgstr ""
+
+# Begin part of names, slugs or IDs separated by comma
+msgctxt "admin.Settings_Profiles"
+msgid "ProdsPhlr"
+msgstr ""
+
+# Enable all
+msgctxt "admin.ProductSettings"
+msgid "EnabledAllLbl"
+msgstr ""
+
+# nowhere
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Loop_None"
+msgstr ""
+
+# after title
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Loop_Title_After"
+msgstr ""
+
+# after price
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Loop_Price_After"
+msgstr ""
+
+# after all
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Loop_After"
+msgstr ""
+
+# Nowhere
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Single_None"
+msgstr ""
+
+# Before all
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Single_Before"
+msgstr ""
+
+# Before meta
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Single_Meta_Before"
+msgstr ""
+
+# Before add to cart block
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Single_AddToCartForm_Before"
+msgstr ""
+
+# After add to cart block
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Single_AddToCartForm_After"
+msgstr ""
+
+# After meta
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Single_Meta_After"
+msgstr ""
+
+# Before summary
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Single_Summary_Before"
+msgstr ""
+
+# After summary
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Single_Summary_After"
+msgstr ""
+
+# After all
+msgctxt "admin.Settings_Display_ProductInsertPos"
+msgid "Single_After"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_General"
+msgid "Title"
+msgstr ""
+
+# Common
+msgctxt "admin.Settings_Cmn"
+msgid "Lbl"
+msgstr ""
+
+# Show undiscounted price with products in cart
+msgctxt "admin.Settings_Cmn"
+msgid "ShowItemSubtotalPrevPriceChk"
+msgstr ""
+
+# Update data dynamically in products
+msgctxt "admin.Settings_Cmn"
+msgid "ProductUpdateDataDynChk"
+msgstr ""
+
+# Sale price
+msgctxt "admin.Settings_AdjustOnSale"
+msgid "Lbl"
+msgstr ""
+
+# Apply as sale price
+msgctxt "admin.Settings_AdjustOnSale"
+msgid "EnableChk"
+msgstr ""
+
+# Show original sale separately
+msgctxt "admin.Settings_AdjustOnSale"
+msgid "ShowSeparatedOriginalSaleChk"
+msgstr ""
+
+msgctxt "admin.Settings_AdjustOnSale"
+msgid "ShowSeparatedVarsOriginalPriceChk"
+msgstr ""
+
+# Extra sale flash template text: 
+msgctxt "admin.Settings_AdjustOnSale"
+msgid "Loc_SaleFlashExtraLbl"
+msgstr ""
+
+# Extra sale range flash template text: 
+msgctxt "admin.Settings_AdjustOnSale"
+msgid "Loc_SaleRangeFlashExtraLbl"
+msgstr ""
+
+# Total price
+msgctxt "admin.Settings_ProductTotalPricePreview"
+msgid "Lbl"
+msgstr ""
+
+# Show preview in single product
+msgctxt "admin.Settings_ProductTotalPricePreview"
+msgid "EnableChk"
+msgstr ""
+
+# Include cart
+msgctxt "admin.Settings_ProductTotalPricePreview"
+msgid "UseCartChk"
+msgstr ""
+
+# Immediately on load
+msgctxt "admin.Settings_ProductDiscount"
+msgid "OnLoadChk"
+msgstr ""
+
+# Label text: 
+msgctxt "admin.Settings_ProductTotalPricePreview"
+msgid "Loc_LabelLbl"
+msgstr ""
+
+# Periodical prices
+msgctxt "admin.Settings_PeriodPrices"
+msgid "Lbl"
+msgstr ""
+
+# Show periodical prices as %2$s %1$s
+#, php-format
+msgctxt "admin.Settings_PeriodPrices"
+msgid "ShowNormalizedChk_%1$s%2$s"
+msgstr ""
+
+# In product list,&nbsp;
+msgctxt "admin.Settings_PeriodPrices"
+msgid "ShowNormalizedProdLoopChk"
+msgstr ""
+
+# add to cart block on product page,&nbsp;
+msgctxt "admin.Settings_PeriodPrices"
+msgid "ShowNormalizedProdAddToCartFormChk"
+msgstr ""
+
+# products in cart
+msgctxt "admin.Settings_PeriodPrices"
+msgid "ShowNormalizedCartProductChk"
+msgstr ""
+
+# Show variations price difference as discount
+msgctxt "admin.Settings_PeriodPrices"
+msgid "ShowNormalizedProdVarsRelDiscountChk"
+msgstr ""
+
+# Calculation mode
+msgctxt "admin.Settings_CalcMode"
+msgid "Lbl"
+msgstr ""
+
+# First match
+msgctxt "admin.Settings_CalcMode"
+msgid "Item_FirstMatch"
+msgstr ""
+
+# Discount profiles
+msgctxt "admin.Settings_Profiles"
+msgid "Title"
+msgstr ""
+
+# Discounts can be defined both here in profiles for all products, and in each product separately. You can configure product filtering in each profile.
+msgctxt "admin.Settings_Profiles"
+msgid "Descr"
+msgstr ""
+
+# Enabled
+msgctxt "admin.Settings_Profiles"
+msgid "EnabledLbl"
+msgstr ""
+
+# Rule name
+msgctxt "admin.Settings_Profiles"
+msgid "NameLbl"
+msgstr ""
+
+# Optional name to identify
+msgctxt "admin.Settings_Profiles"
+msgid "NamePhlr"
+msgstr ""
+
+# Conditions
+msgctxt "admin.Settings_Profiles"
+msgid "FiltersLbl"
+msgstr ""
+
+# Discounts
+msgctxt "admin.Settings_Profiles"
+msgid "ItemsLbl"
+msgstr ""
